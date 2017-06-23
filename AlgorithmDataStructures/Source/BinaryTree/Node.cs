@@ -10,7 +10,7 @@ using System.Drawing.Drawing2D;
 namespace BinaryTree
 {
     /// <summary>
-    /// an object representing a node. a node is a part of the binary tree which contains data
+    /// an object representing a node. a node is a part of the binary tree which contains data.
     /// </summary>
     public class Node
     {
